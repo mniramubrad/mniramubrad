@@ -22,11 +22,16 @@
 ![C#](https://img.shields.io/badge/C%23-b5ead7?style=flat-square)  
 ![Java](https://img.shields.io/badge/Java-d5aaff?style=flat-square)  
 ![Swift](https://img.shields.io/badge/Swift-ff9aa2?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-a0ced9?style=flat-square)
 
+**Frameworks:**  
+
+![Flutter](https://img.shields.io/badge/Flutter-c7ceea?style=flat-square)
 
 **Tools I Use:**
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=flat-square)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=flat-square)   
+![Android Studio](https://img.shields.io/badge/Android%20Studi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)  
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-lightgrey?style=flat-square)  
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&style=flat-square)
