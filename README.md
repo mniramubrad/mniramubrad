@@ -1,49 +1,51 @@
-<h2 align="center">🌸 Welcome to My World 🌸</h2>
-<p align="center"> Senior IT student at Arab Open University 🎓</p>
-<p align="center"> 
-   A tech girl who loves soft designs and smart ideas 💡 |  Member of GDGs & AI Club 🤍 </p>
+<p align="center">
+  Passionate about cloud engineering, automation, and building meaningful technical solutions.
+</p>
+
+<p align="center">
+  I enjoy exploring how technologies connect, solving complex problems, and finding creative ways to make systems smarter, more secure, and reliable.
+</p>
+
+<p align="center">
+  For me, engineering is about curiosity, continuous learning, and turning ideas into something useful.
+</p>
 
 ---
 
-### About Me 📌
-  
-- 💻 Interested in Web Development, AI & Smart Solutions  
-- 🌷 I believe tech can be helpful *and* cute  
+What I Work With ☁️
+Cloud Platforms: Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP)
+Infrastructure: Linux, Windows Server, Networking, Storage
+Automation & Scripting: Python, Bash, Ansible, OCI CLI
+Security: IAM, Access Management, Cloud Security
+Reliability & Operations: Monitoring, Troubleshooting, Disaster Recovery
+Optimization: Cloud Resource Management, Cost Optimization
 
 ---
 
-### Skills & Tools 🔧
-
-**Languages:**  
-
-![HTML](https://img.shields.io/badge/HTML-f7cac9?style=flat-square)  
-![CSS](https://img.shields.io/badge/CSS-ffe5ec?style=flat-square)  
-![JavaScript](https://img.shields.io/badge/JavaScript-fec89a?style=flat-square)  
-![C#](https://img.shields.io/badge/C%23-b5ead7?style=flat-square)  
-![Java](https://img.shields.io/badge/Java-d5aaff?style=flat-square)  
-![Swift](https://img.shields.io/badge/Swift-ff9aa2?style=flat-square)
-![Dart](https://img.shields.io/badge/Dart-a0ced9?style=flat-square)
-
-**Frameworks:**  
-
-![Flutter](https://img.shields.io/badge/Flutter-c7ceea?style=flat-square)
-
-**Tools I Use:**
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=flat-square)    
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)  
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-lightgrey?style=flat-square)  
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&style=flat-square)
+What I'm Exploring 🌱
+Cloud Architecture & Site Reliability Engineering
+Networking & Cybersecurity
+Artificial Intelligence & Cloud Infrastructure
+Infrastructure Automation
+Building tools that simplify complex systems
 
 ---
 
-### Let’s Connect! 💬 
-
-📩 Email: mniraalmubrad@email.com    
-💼 LinkedIn: [Munirah AlMobrad](https://www.linkedin.com/in/munirah-almobrad/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-🐦 X (Twitter): [@mniraitself](https://x.com/mniraitself?s=21&t=Hlg3eA6yXN28In4pwBXSlw)
+A Little More About Me ✨
+I love turning ideas into real projects.
+I'm naturally curious and always looking for something new to learn.
+I'm fascinated by how cloud computing, networking, security, and AI work together.
+I believe the best solutions come from a mix of technical thinking and creativity.
 
 ---
 
-<p align="center">Made with 💗 by Mimi</p>
+Let's Connect! 💬
+I'm always happy to connect with people who share an interest in technology, engineering, and creative problem-solving.
+
+💼 LinkedIn: Munirah Almobrad
+
+---
+
+<p align="center">
+  <i>Always learning, always building. ☁️</i>
+</p>
