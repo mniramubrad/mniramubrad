@@ -53,6 +53,7 @@
 
 <hr>
 
+
 <h3>Let's Connect! 💬</h3>
 
 <p>
@@ -60,14 +61,15 @@
 </p>
 
 <p>
-  💼 <b>LinkedIn:</b>
-  <a href="https://www.linkedin.com/in/munirah-almobrad/">
-    Munirah Almobrad
+  📩 <b>Email:</b>
+  <a href="mailto:mniraalmubrad@gmail.com">
+    mniraalmubrad@gmail.com
   </a>
 </p>
 
-<hr>
-
-<p align="center">
-  <i>Always learning, always building. ☁️</i>
+<p>
+  💼 <b>LinkedIn:</b>
+  <a href="https://www.linkedin.com/in/munirah-almobrad/">
+    Munirah Al-Mobrad
+  </a>
 </p>
