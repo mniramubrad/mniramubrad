@@ -70,6 +70,6 @@
 <p>
   💼 <b>LinkedIn:</b>
   <a href="https://www.linkedin.com/in/munirah-almobrad/">
-    Munirah Al-Mobrad
+    Munirah Almobrad
   </a>
 </p>
